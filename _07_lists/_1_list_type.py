@@ -1,5 +1,5 @@
 fruits = ['apple', 'banana', 'cherry']
-print(fruits)  # Outputs: ['apple', 'banana', 'cherry']
+print(fruits)  # Outputs: ['apple', 'banana', 'cherry1']
 
 my_list = list()
 print(my_list)  # Outputs: []
